@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dsl.mKAOS:mKAOS xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dsl.kaos="dsl.kaos" xmlns:dsl.mKAOS="dsl.mKAOS">
+  <linkedBy xsi:type="dsl.kaos:Refinement" refines="//@consistsOf.0"/>
+  <consistsOf xsi:type="dsl.mKAOS:Mission" name="Provide the student with an international master offered by two universities with proper management of competencies"/>
+  <consistsOf xsi:type="dsl.mKAOS:Mission" name="Provide the students with the ability to register in the international master" refinedBy="//@linkedBy.0" assignedTo="//@consistsOf.8"/>
+  <consistsOf xsi:type="dsl.mKAOS:Mission" name="Provide the students with the ability to attend online courses" refinedBy="//@linkedBy.0" assignedTo="//@consistsOf.4"/>
+  <consistsOf xsi:type="dsl.mKAOS:Mission" name="Provide the students with the list of the courses/competences acquired during the international master" refinedBy="//@linkedBy.0" assignedTo="//@consistsOf.5"/>
+  <consistsOf xsi:type="dsl.mKAOS:ConstituentSystem" name="Learning System"/>
+  <consistsOf xsi:type="dsl.mKAOS:ConstituentSystem" name="Scheduling Calendar System"/>
+  <consistsOf xsi:type="dsl.mKAOS:Mission" name="Provide the students with the ability to choose the list of courses in the University 1" refinedBy="//@linkedBy.0" assignedTo="//@consistsOf.9"/>
+  <consistsOf xsi:type="dsl.mKAOS:Mission" name="Provide the students with the ability to choose the list of courses in the University 2" refinedBy="//@linkedBy.0" assignedTo="//@consistsOf.10"/>
+  <consistsOf xsi:type="dsl.mKAOS:ConstituentSystem" name="Cooperation Administrative Office"/>
+  <consistsOf xsi:type="dsl.mKAOS:ConstituentSystem" name="University 1 Administrative Office"/>
+  <consistsOf xsi:type="dsl.mKAOS:ConstituentSystem" name="University 2 Administrative Office"/>
+</dsl.mKAOS:mKAOS>

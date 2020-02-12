@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:dsl.kaos="dsl.kaos" xmlns:dsl.mKAOS="dsl.mKAOS" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style">
+  <viewpoint:DAnalysis xmi:id="_sruQ8EjHEeqt4fNV2MZ8Fg" selectedViews="_Gz3egEjIEeqt4fNV2MZ8Fg" version="13.0.0.201804031646">
+    <semanticResources>EducaSoS.mkaos</semanticResources>
+    <ownedViews xmi:type="viewpoint:DView" xmi:id="_Gz3egEjIEeqt4fNV2MZ8Fg">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" xmi:id="_G0voQEjIEeqt4fNV2MZ8Fg" name="mKAOS Diagram" repPath="#_G0Fg8EjIEeqt4fNV2MZ8Fg">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']"/>
+        <target xmi:type="dsl.mKAOS:mKAOS" href="EducaSoS.mkaos#/"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+  </viewpoint:DAnalysis>
+  <diagram:DSemanticDiagram xmi:id="_G0oTgEjIEeqt4fNV2MZ8Fg" name="mKAOS Diagram" uid="_G0Fg8EjIEeqt4fNV2MZ8Fg">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_G0oTgUjIEeqt4fNV2MZ8Fg" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" xmi:id="_G0oTgkjIEeqt4fNV2MZ8Fg"/>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_G09DoEjIEeqt4fNV2MZ8Fg" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_G09DoUjIEeqt4fNV2MZ8Fg" type="Sirius" element="_G0oTgEjIEeqt4fNV2MZ8Fg" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_KjdVsEjIEeqt4fNV2MZ8Fg" type="2001" element="_KdTqYEjIEeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_Kjej0EjIEeqt4fNV2MZ8Fg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Kjej0UjIEeqt4fNV2MZ8Fg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Kji1QEjIEeqt4fNV2MZ8Fg" type="3003" element="_KdURcEjIEeqt4fNV2MZ8Fg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_Kji1QUjIEeqt4fNV2MZ8Fg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kji1QkjIEeqt4fNV2MZ8Fg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_KjdVsUjIEeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KjdVskjIEeqt4fNV2MZ8Fg" x="420" y="12" width="145" height="97"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_4Y0fUEjJEeqt4fNV2MZ8Fg" type="2001" element="_4YyDEEjJEeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_4Y0fU0jJEeqt4fNV2MZ8Fg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_4Y0fVEjJEeqt4fNV2MZ8Fg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_4Y0fVUjJEeqt4fNV2MZ8Fg" type="3003" element="_4YyDEUjJEeqt4fNV2MZ8Fg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_4Y0fVkjJEeqt4fNV2MZ8Fg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4Y0fV0jJEeqt4fNV2MZ8Fg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_4Y0fUUjJEeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4Y0fUkjJEeqt4fNV2MZ8Fg" x="486" y="228" width="109" height="85"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_oDNGUEjKEeqt4fNV2MZ8Fg" type="2001" element="_oDGYoEjKEeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_oDOUcEjKEeqt4fNV2MZ8Fg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_oDOUcUjKEeqt4fNV2MZ8Fg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_oDO7gEjKEeqt4fNV2MZ8Fg" type="3003" element="_oDG_sEjKEeqt4fNV2MZ8Fg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_oDO7gUjKEeqt4fNV2MZ8Fg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oDO7gkjKEeqt4fNV2MZ8Fg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_oDNGUUjKEeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oDNGUkjKEeqt4fNV2MZ8Fg" x="714" y="194" width="133" height="106"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_B_NVUEjLEeqt4fNV2MZ8Fg" type="2001" element="_B_GnoEjLEeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_B_N8YEjLEeqt4fNV2MZ8Fg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_B_N8YUjLEeqt4fNV2MZ8Fg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_B_OjcEjLEeqt4fNV2MZ8Fg" type="3003" element="_B_GnoUjLEeqt4fNV2MZ8Fg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_B_OjcUjLEeqt4fNV2MZ8Fg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_B_OjckjLEeqt4fNV2MZ8Fg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_B_NVUUjLEeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_B_NVUkjLEeqt4fNV2MZ8Fg" x="120" y="588" width="127" height="73"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_M-8ZUEjLEeqt4fNV2MZ8Fg" type="2001" element="_M-yoUEjLEeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_M-8ZU0jLEeqt4fNV2MZ8Fg" visible="false" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_M-8ZVEjLEeqt4fNV2MZ8Fg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_M-8ZVUjLEeqt4fNV2MZ8Fg" type="3016" element="_M-zPYEjLEeqt4fNV2MZ8Fg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_M-8ZVkjLEeqt4fNV2MZ8Fg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_M-8ZV0jLEeqt4fNV2MZ8Fg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_M-8ZUUjLEeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_M-8ZUkjLEeqt4fNV2MZ8Fg" x="469" y="150" width="30" height="30"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_gtoiwEjREeqt4fNV2MZ8Fg" type="2001" element="_gtexwEjREeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_gtoiw0jREeqt4fNV2MZ8Fg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_gtoixEjREeqt4fNV2MZ8Fg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_gtpw4EjREeqt4fNV2MZ8Fg" type="3017" element="_gtexwUjREeqt4fNV2MZ8Fg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_gtpw4UjREeqt4fNV2MZ8Fg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gtpw4kjREeqt4fNV2MZ8Fg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_gtoiwUjREeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gtoiwkjREeqt4fNV2MZ8Fg" x="69" y="732" width="178" height="109"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_pmmukEjREeqt4fNV2MZ8Fg" type="2001" element="_pmcWgEjREeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_pmmuk0jREeqt4fNV2MZ8Fg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_pmmulEjREeqt4fNV2MZ8Fg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_pmmulUjREeqt4fNV2MZ8Fg" type="3003" element="_pmcWgUjREeqt4fNV2MZ8Fg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_pmmulkjREeqt4fNV2MZ8Fg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pmmul0jREeqt4fNV2MZ8Fg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_pmmukUjREeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pmmukkjREeqt4fNV2MZ8Fg" x="342" y="606" width="115" height="85"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_zOf14EjREeqt4fNV2MZ8Fg" type="2001" element="_zOWr8EjREeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_zOf140jREeqt4fNV2MZ8Fg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_zOf15EjREeqt4fNV2MZ8Fg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_zOgc8EjREeqt4fNV2MZ8Fg" type="3017" element="_zOWr8UjREeqt4fNV2MZ8Fg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_zOgc8UjREeqt4fNV2MZ8Fg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zOgc8kjREeqt4fNV2MZ8Fg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_zOf14UjREeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zOf14kjREeqt4fNV2MZ8Fg" x="324" y="750" width="181" height="127"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_1_YCEEjREeqt4fNV2MZ8Fg" type="2001" element="_1_NqAEjREeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_1_YpIEjREeqt4fNV2MZ8Fg" visible="false" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_1_YpIUjREeqt4fNV2MZ8Fg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_1_YpIkjREeqt4fNV2MZ8Fg" type="3016" element="_1_NqAUjREeqt4fNV2MZ8Fg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_1_YpI0jREeqt4fNV2MZ8Fg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1_YpJEjREeqt4fNV2MZ8Fg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_1_YCEUjREeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1_YCEkjREeqt4fNV2MZ8Fg" x="276" y="551" width="30" height="30"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_GN9JgEjSEeqt4fNV2MZ8Fg" type="2001" element="_GNz_kEjSEeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_GN9wkEjSEeqt4fNV2MZ8Fg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_GN9wkUjSEeqt4fNV2MZ8Fg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_GN9wkkjSEeqt4fNV2MZ8Fg" type="3017" element="_GNz_kUjSEeqt4fNV2MZ8Fg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_GN9wk0jSEeqt4fNV2MZ8Fg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GN9wlEjSEeqt4fNV2MZ8Fg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_GN9JgUjSEeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GN9JgkjSEeqt4fNV2MZ8Fg" x="504" y="402" width="151" height="84"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_MS2EIEjSEeqt4fNV2MZ8Fg" type="2001" element="_MSvWcEjSEeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_MS2rMEjSEeqt4fNV2MZ8Fg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_MS2rMUjSEeqt4fNV2MZ8Fg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_MS3SQEjSEeqt4fNV2MZ8Fg" type="3017" element="_MSvWcUjSEeqt4fNV2MZ8Fg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_MS3SQUjSEeqt4fNV2MZ8Fg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MS3SQkjSEeqt4fNV2MZ8Fg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_MS2EIUjSEeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MS2EIkjSEeqt4fNV2MZ8Fg" x="720" y="389" width="163" height="97"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_1CppMEjTEeqt4fNV2MZ8Fg" type="2001" element="_1COycEjTEeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_1Cq3UEjTEeqt4fNV2MZ8Fg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_1Cq3UUjTEeqt4fNV2MZ8Fg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_1Cq3UkjTEeqt4fNV2MZ8Fg" type="3003" element="_1COycUjTEeqt4fNV2MZ8Fg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_1Cq3U0jTEeqt4fNV2MZ8Fg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1Cq3VEjTEeqt4fNV2MZ8Fg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_1CppMUjTEeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1CppMkjTEeqt4fNV2MZ8Fg" x="168" y="194" width="151" height="117"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_q70tsEjUEeqt4fNV2MZ8Fg" type="2001" element="_q7eIYEjUEeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_q70ts0jUEeqt4fNV2MZ8Fg" visible="false" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_q70ttEjUEeqt4fNV2MZ8Fg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_q70ttUjUEeqt4fNV2MZ8Fg" type="3016" element="_q7eIYUjUEeqt4fNV2MZ8Fg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_q70ttkjUEeqt4fNV2MZ8Fg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_q70tt0jUEeqt4fNV2MZ8Fg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_q70tsUjUEeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_q70tskjUEeqt4fNV2MZ8Fg" x="252" y="342" width="30" height="30"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_uiOzsEjUEeqt4fNV2MZ8Fg" type="2001" element="_uiCmcEjUEeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_uiOzs0jUEeqt4fNV2MZ8Fg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_uiOztEjUEeqt4fNV2MZ8Fg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_uiOztUjUEeqt4fNV2MZ8Fg" type="3003" element="_uiCmcUjUEeqt4fNV2MZ8Fg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_uiOztkjUEeqt4fNV2MZ8Fg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uiOzt0jUEeqt4fNV2MZ8Fg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_uiOzsUjUEeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uiOzskjUEeqt4fNV2MZ8Fg" x="244" y="432" width="177" height="103"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_G09DokjIEeqt4fNV2MZ8Fg"/>
+        <edges xmi:type="notation:Edge" xmi:id="_NkJYIEjLEeqt4fNV2MZ8Fg" type="4001" element="_Nj9K4EjLEeqt4fNV2MZ8Fg" source="_M-8ZUEjLEeqt4fNV2MZ8Fg" target="_KjdVsEjIEeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_NkJ_M0jLEeqt4fNV2MZ8Fg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NkJ_NEjLEeqt4fNV2MZ8Fg" x="-7" y="-7"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_NkKmQEjLEeqt4fNV2MZ8Fg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NkKmQUjLEeqt4fNV2MZ8Fg" x="10" y="7"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_NkKmQkjLEeqt4fNV2MZ8Fg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NkKmQ0jLEeqt4fNV2MZ8Fg" x="7" y="7"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_NkJ_MEjLEeqt4fNV2MZ8Fg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_NkJ_MUjLEeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_NkJ_MkjLEeqt4fNV2MZ8Fg" points="[0, 0, -12, 41]$[12, -41, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_NkKmREjLEeqt4fNV2MZ8Fg" id="(0.7666666666666667,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_NkKmRUjLEeqt4fNV2MZ8Fg" id="(0.5793103448275863,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_O5FKwEjLEeqt4fNV2MZ8Fg" type="4001" element="_O48A0EjLEeqt4fNV2MZ8Fg" source="_4Y0fUEjJEeqt4fNV2MZ8Fg" target="_M-8ZUEjLEeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_O5Fx0EjLEeqt4fNV2MZ8Fg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_O5Fx0UjLEeqt4fNV2MZ8Fg" x="-7" y="1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_O5Fx0kjLEeqt4fNV2MZ8Fg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_O5Fx00jLEeqt4fNV2MZ8Fg" x="12" y="-2"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_O5GY4EjLEeqt4fNV2MZ8Fg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_O5GY4UjLEeqt4fNV2MZ8Fg" x="9" y="-2"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_O5FKwUjLEeqt4fNV2MZ8Fg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_O5FKwkjLEeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_O5FKw0jLEeqt4fNV2MZ8Fg" points="[0, 0, 60, 48]$[-60, -48, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_O5GY4kjLEeqt4fNV2MZ8Fg" id="(0.5504587155963303,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_O5GY40jLEeqt4fNV2MZ8Fg" id="(0.5666666666666667,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_PWBlcEjLEeqt4fNV2MZ8Fg" type="4001" element="_PVTzwEjLEeqt4fNV2MZ8Fg" source="_oDNGUEjKEeqt4fNV2MZ8Fg" target="_M-8ZUEjLEeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_PWCMgEjLEeqt4fNV2MZ8Fg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PWCMgUjLEeqt4fNV2MZ8Fg" x="3" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_PWCMgkjLEeqt4fNV2MZ8Fg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PWCMg0jLEeqt4fNV2MZ8Fg" x="-1" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_PWCMhEjLEeqt4fNV2MZ8Fg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PWCMhUjLEeqt4fNV2MZ8Fg" x="-2" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_PWBlcUjLEeqt4fNV2MZ8Fg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_PWBlckjLEeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_PWBlc0jLEeqt4fNV2MZ8Fg" points="[0, 0, 215, 59]$[-215, -59, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_PWCzkEjLEeqt4fNV2MZ8Fg" id="(0.0,0.25471698113207547)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_PWCzkUjLEeqt4fNV2MZ8Fg" id="(1.0,0.4)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_yrKfUEjREeqt4fNV2MZ8Fg" type="4001" element="_yrHcAEjREeqt4fNV2MZ8Fg" source="_B_NVUEjLEeqt4fNV2MZ8Fg" target="_gtoiwEjREeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_yrKfVEjREeqt4fNV2MZ8Fg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yrKfVUjREeqt4fNV2MZ8Fg" x="-5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_yrKfVkjREeqt4fNV2MZ8Fg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yrKfV0jREeqt4fNV2MZ8Fg" x="3" y="1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_yrKfWEjREeqt4fNV2MZ8Fg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yrKfWUjREeqt4fNV2MZ8Fg" x="4" y="1"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_yrKfUUjREeqt4fNV2MZ8Fg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_yrKfUkjREeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_yrKfU0jREeqt4fNV2MZ8Fg" points="[0, 0, 6, -71]$[-6, 71, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_yrLGYEjREeqt4fNV2MZ8Fg" id="(0.4251968503937008,1.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_yrLGYUjREeqt4fNV2MZ8Fg" id="(0.5561797752808989,0.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_1DAgcEjREeqt4fNV2MZ8Fg" type="4001" element="_1C5LsEjREeqt4fNV2MZ8Fg" source="_pmmukEjREeqt4fNV2MZ8Fg" target="_zOf14EjREeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_1DAgdEjREeqt4fNV2MZ8Fg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1DAgdUjREeqt4fNV2MZ8Fg" x="-6"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_1DAgdkjREeqt4fNV2MZ8Fg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1DAgd0jREeqt4fNV2MZ8Fg" x="5" y="2"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_1DAgeEjREeqt4fNV2MZ8Fg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1DAgeUjREeqt4fNV2MZ8Fg" x="4" y="2"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_1DAgcUjREeqt4fNV2MZ8Fg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_1DAgckjREeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_1DAgc0jREeqt4fNV2MZ8Fg" points="[0, 0, 18, -59]$[-18, 59, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_1DAgekjREeqt4fNV2MZ8Fg" id="(0.6260869565217392,1.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_1DAge0jREeqt4fNV2MZ8Fg" id="(0.39779005524861877,0.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_3X3fAEjREeqt4fNV2MZ8Fg" type="4001" element="_3Xz0oEjREeqt4fNV2MZ8Fg" source="_B_NVUEjLEeqt4fNV2MZ8Fg" target="_1_YCEEjREeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_3X3fBEjREeqt4fNV2MZ8Fg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3X3fBUjREeqt4fNV2MZ8Fg" x="1" y="-5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_3X4GEEjREeqt4fNV2MZ8Fg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3X4GEUjREeqt4fNV2MZ8Fg" x="2" y="4"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_3X4GEkjREeqt4fNV2MZ8Fg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3X4GE0jREeqt4fNV2MZ8Fg" x="1" y="2"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_3X3fAUjREeqt4fNV2MZ8Fg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_3X3fAkjREeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_3X3fA0jREeqt4fNV2MZ8Fg" points="[0, 0, -29, 61]$[29, -61, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_3X4GFEjREeqt4fNV2MZ8Fg" id="(1.0,0.5753424657534246)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_3X4GFUjREeqt4fNV2MZ8Fg" id="(0.0,0.6)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_4XfI8EjREeqt4fNV2MZ8Fg" type="4001" element="_4XWmEEjREeqt4fNV2MZ8Fg" source="_pmmukEjREeqt4fNV2MZ8Fg" target="_1_YCEEjREeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_4XfI9EjREeqt4fNV2MZ8Fg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4XfI9UjREeqt4fNV2MZ8Fg" x="11"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_4XfI9kjREeqt4fNV2MZ8Fg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4XfI90jREeqt4fNV2MZ8Fg" x="71" y="1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_4XfI-EjREeqt4fNV2MZ8Fg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4XfI-UjREeqt4fNV2MZ8Fg" x="-6"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_4XfI8UjREeqt4fNV2MZ8Fg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_4XfI8kjREeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4XfI80jREeqt4fNV2MZ8Fg" points="[0, 0, 36, 91]$[-36, -91, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_4XfI-kjREeqt4fNV2MZ8Fg" id="(0.0,0.5647058823529412)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_4XfI-0jREeqt4fNV2MZ8Fg" id="(1.0,0.4)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_H12UYEjSEeqt4fNV2MZ8Fg" type="4001" element="_H1qHIEjSEeqt4fNV2MZ8Fg" source="_4Y0fUEjJEeqt4fNV2MZ8Fg" target="_GN9JgEjSEeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_H127cEjSEeqt4fNV2MZ8Fg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_H127cUjSEeqt4fNV2MZ8Fg" x="-5" y="-7"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_H127ckjSEeqt4fNV2MZ8Fg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_H127c0jSEeqt4fNV2MZ8Fg" x="1" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_H127dEjSEeqt4fNV2MZ8Fg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_H127dUjSEeqt4fNV2MZ8Fg" x="2" y="9"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_H12UYUjSEeqt4fNV2MZ8Fg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_H12UYkjSEeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_H12UY0jSEeqt4fNV2MZ8Fg" points="[0, 0, 0, -89]$[0, 89, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_H127dkjSEeqt4fNV2MZ8Fg" id="(0.8256880733944955,1.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_H127d0jSEeqt4fNV2MZ8Fg" id="(0.4768211920529801,0.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_PfzIUEjSEeqt4fNV2MZ8Fg" type="4001" element="_PfowQEjSEeqt4fNV2MZ8Fg" source="_oDNGUEjKEeqt4fNV2MZ8Fg" target="_MS2EIEjSEeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_PfzvYEjSEeqt4fNV2MZ8Fg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PfzvYUjSEeqt4fNV2MZ8Fg" x="-12" y="-7"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_PfzvYkjSEeqt4fNV2MZ8Fg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PfzvY0jSEeqt4fNV2MZ8Fg" x="9" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_PfzvZEjSEeqt4fNV2MZ8Fg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PfzvZUjSEeqt4fNV2MZ8Fg" x="7" y="9"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_PfzIUUjSEeqt4fNV2MZ8Fg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_PfzIUkjSEeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_PfzIU0jSEeqt4fNV2MZ8Fg" points="[0, 0, 0, -89]$[0, 89, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Pf0WcEjSEeqt4fNV2MZ8Fg" id="(0.5864661654135338,1.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Pf0WcUjSEeqt4fNV2MZ8Fg" id="(0.44171779141104295,0.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_To9rMEjUEeqt4fNV2MZ8Fg" type="4001" element="_TokCkEjUEeqt4fNV2MZ8Fg" source="_1CppMEjTEeqt4fNV2MZ8Fg" target="_M-8ZUEjLEeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_To9rNEjUEeqt4fNV2MZ8Fg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_To9rNUjUEeqt4fNV2MZ8Fg" x="-1" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_To9rNkjUEeqt4fNV2MZ8Fg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_To9rN0jUEeqt4fNV2MZ8Fg" x="-1" y="8"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_To9rOEjUEeqt4fNV2MZ8Fg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_To9rOUjUEeqt4fNV2MZ8Fg" x="-1" y="6"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_To9rMUjUEeqt4fNV2MZ8Fg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_To9rMkjUEeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_To9rM0jUEeqt4fNV2MZ8Fg" points="[0, 0, -150, 94]$[150, -94, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_To9rOkjUEeqt4fNV2MZ8Fg" id="(1.0,0.47863247863247865)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_To9rO0jUEeqt4fNV2MZ8Fg" id="(0.0,0.2)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_wV_3YEjUEeqt4fNV2MZ8Fg" type="4001" element="_wVzDEEjUEeqt4fNV2MZ8Fg" source="_uiOzsEjUEeqt4fNV2MZ8Fg" target="_q70tsEjUEeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_wV_3ZEjUEeqt4fNV2MZ8Fg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wV_3ZUjUEeqt4fNV2MZ8Fg" x="5" y="-9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_wWAecEjUEeqt4fNV2MZ8Fg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wWAecUjUEeqt4fNV2MZ8Fg" x="-4" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_wWAeckjUEeqt4fNV2MZ8Fg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wWAec0jUEeqt4fNV2MZ8Fg" x="-5" y="9"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_wV_3YUjUEeqt4fNV2MZ8Fg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_wV_3YkjUEeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_wV_3Y0jUEeqt4fNV2MZ8Fg" points="[0, 0, 36, 60]$[-36, -60, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_wWAedEjUEeqt4fNV2MZ8Fg" id="(0.2824858757062147,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_wWAedUjUEeqt4fNV2MZ8Fg" id="(0.2,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_w7g_QEjUEeqt4fNV2MZ8Fg" type="4001" element="_w7GvkEjUEeqt4fNV2MZ8Fg" source="_q70tsEjUEeqt4fNV2MZ8Fg" target="_1CppMEjTEeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_w7g_REjUEeqt4fNV2MZ8Fg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_w7g_RUjUEeqt4fNV2MZ8Fg" x="-7" y="-7"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_w7g_RkjUEeqt4fNV2MZ8Fg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_w7g_R0jUEeqt4fNV2MZ8Fg" x="7" y="7"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_w7g_SEjUEeqt4fNV2MZ8Fg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_w7g_SUjUEeqt4fNV2MZ8Fg" x="6" y="7"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_w7g_QUjUEeqt4fNV2MZ8Fg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_w7g_QkjUEeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_w7g_Q0jUEeqt4fNV2MZ8Fg" points="[0, 0, 6, 31]$[-6, -31, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_w7g_SkjUEeqt4fNV2MZ8Fg" id="(1.0,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_w7g_S0jUEeqt4fNV2MZ8Fg" id="(0.7152317880794702,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_ywTWoEjUEeqt4fNV2MZ8Fg" type="4001" element="_ywF7QEjUEeqt4fNV2MZ8Fg" source="_1_YCEEjREeqt4fNV2MZ8Fg" target="_uiOzsEjUEeqt4fNV2MZ8Fg">
+          <children xmi:type="notation:Node" xmi:id="_ywT9sEjUEeqt4fNV2MZ8Fg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ywT9sUjUEeqt4fNV2MZ8Fg" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ywT9skjUEeqt4fNV2MZ8Fg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ywT9s0jUEeqt4fNV2MZ8Fg" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ywT9tEjUEeqt4fNV2MZ8Fg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ywT9tUjUEeqt4fNV2MZ8Fg" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_ywTWoUjUEeqt4fNV2MZ8Fg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_ywTWokjUEeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ywTWo0jUEeqt4fNV2MZ8Fg" points="[0, 0, -24, 16]$[24, -16, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ywT9tkjUEeqt4fNV2MZ8Fg" id="(0.4,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ywT9t0jUEeqt4fNV2MZ8Fg" id="(0.384180790960452,1.0)"/>
+        </edges>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_KdTqYEjIEeqt4fNV2MZ8Fg" name="Students can perform a period abroad successfully" incomingEdges="_Nj9K4EjLEeqt4fNV2MZ8Fg" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.0"/>
+      <semanticElements xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.0"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Square" xmi:id="_KdURcEjIEeqt4fNV2MZ8Fg" showIcon="false" borderSize="1" borderSizeComputationExpression="[self.priority+1/]" labelPosition="node" color="194,239,255">
+        <description xmi:type="style:SquareDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Mission']/@nodeMappings[name='mKAOS.Mission']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Mission']/@nodeMappings[name='mKAOS.Mission']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_4YyDEEjJEeqt4fNV2MZ8Fg" name="Provide the students with the ability to attend online courses" outgoingEdges="_O48A0EjLEeqt4fNV2MZ8Fg _H1qHIEjSEeqt4fNV2MZ8Fg" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.1"/>
+      <semanticElements xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.1"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Square" xmi:id="_4YyDEUjJEeqt4fNV2MZ8Fg" showIcon="false" borderSize="1" borderSizeComputationExpression="[self.priority+1/]" labelPosition="node" color="194,239,255">
+        <description xmi:type="style:SquareDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Mission']/@nodeMappings[name='mKAOS.Mission']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Mission']/@nodeMappings[name='mKAOS.Mission']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_oDGYoEjKEeqt4fNV2MZ8Fg" name="Provide the students with the list of the courses/competences acquired during the period abroad" outgoingEdges="_PVTzwEjLEeqt4fNV2MZ8Fg _PfowQEjSEeqt4fNV2MZ8Fg" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.2"/>
+      <semanticElements xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.2"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Square" xmi:id="_oDG_sEjKEeqt4fNV2MZ8Fg" showIcon="false" borderSize="1" borderSizeComputationExpression="[self.priority+1/]" labelPosition="node" color="194,239,255">
+        <description xmi:type="style:SquareDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Mission']/@nodeMappings[name='mKAOS.Mission']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Mission']/@nodeMappings[name='mKAOS.Mission']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_B_GnoEjLEeqt4fNV2MZ8Fg" name="Origin university requests student registration" outgoingEdges="_yrHcAEjREeqt4fNV2MZ8Fg _3Xz0oEjREeqt4fNV2MZ8Fg" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.3"/>
+      <semanticElements xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.3"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Square" xmi:id="_B_GnoUjLEeqt4fNV2MZ8Fg" showIcon="false" borderSize="1" borderSizeComputationExpression="[self.priority+1/]" labelPosition="node" color="194,239,255">
+        <description xmi:type="style:SquareDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Mission']/@nodeMappings[name='mKAOS.Mission']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Mission']/@nodeMappings[name='mKAOS.Mission']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_pmcWgEjREeqt4fNV2MZ8Fg" name="Destination University register the students in a course" outgoingEdges="_1C5LsEjREeqt4fNV2MZ8Fg _4XWmEEjREeqt4fNV2MZ8Fg" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.5"/>
+      <semanticElements xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.5"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Square" xmi:id="_pmcWgUjREeqt4fNV2MZ8Fg" showIcon="false" borderSize="1" borderSizeComputationExpression="[self.priority+1/]" labelPosition="node" color="194,239,255">
+        <description xmi:type="style:SquareDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Mission']/@nodeMappings[name='mKAOS.Mission']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Mission']/@nodeMappings[name='mKAOS.Mission']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_1COycEjTEeqt4fNV2MZ8Fg" name="Provide the student  with the possibility to select an abroad university within the Erasmus program" outgoingEdges="_TokCkEjUEeqt4fNV2MZ8Fg" incomingEdges="_w7GvkEjUEeqt4fNV2MZ8Fg" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.9"/>
+      <semanticElements xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.9"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Square" xmi:id="_1COycUjTEeqt4fNV2MZ8Fg" showIcon="false" borderSize="1" borderSizeComputationExpression="[self.priority+1/]" labelPosition="node" color="194,239,255">
+        <description xmi:type="style:SquareDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Mission']/@nodeMappings[name='mKAOS.Mission']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Mission']/@nodeMappings[name='mKAOS.Mission']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_uiCmcEjUEeqt4fNV2MZ8Fg" name="Provide the students with the ability to register in the selected courses in the university abroad" outgoingEdges="_wVzDEEjUEeqt4fNV2MZ8Fg" incomingEdges="_ywF7QEjUEeqt4fNV2MZ8Fg" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.10"/>
+      <semanticElements xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.10"/>
+      <ownedStyle xmi:type="diagram:Square" xmi:id="_uiCmcUjUEeqt4fNV2MZ8Fg" showIcon="false" borderSize="1" borderSizeComputationExpression="[self.priority+1/]" labelPosition="node" color="194,239,255">
+        <description xmi:type="style:SquareDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Mission']/@nodeMappings[name='mKAOS.Mission']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Mission']/@nodeMappings[name='mKAOS.Mission']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_M-yoUEjLEeqt4fNV2MZ8Fg" outgoingEdges="_Nj9K4EjLEeqt4fNV2MZ8Fg" incomingEdges="_O48A0EjLEeqt4fNV2MZ8Fg _PVTzwEjLEeqt4fNV2MZ8Fg _TokCkEjUEeqt4fNV2MZ8Fg" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="dsl.kaos:Refinement" href="EducaSoS.mkaos#//@linkedBy.0"/>
+      <semanticElements xmi:type="dsl.kaos:Refinement" href="EducaSoS.mkaos#//@linkedBy.0"/>
+      <graphicalFilters xmi:type="diagram:HideLabelFilter" xmi:id="_M-zPYUjLEeqt4fNV2MZ8Fg"/>
+      <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_M-zPYEjLEeqt4fNV2MZ8Fg" showIcon="false" hideLabelByDefault="true" labelPosition="node" color="252,233,79">
+        <description xmi:type="style:EllipseNodeDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='KAOS']/@ownedRepresentations[name='mKAOS.main']/@additionalLayers[name='KAOS.Goal']/@nodeMappings[name='KAOS.Refinement']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='KAOS']/@ownedRepresentations[name='mKAOS.main']/@additionalLayers[name='KAOS.Goal']/@nodeMappings[name='KAOS.Refinement']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_1_NqAEjREeqt4fNV2MZ8Fg" outgoingEdges="_ywF7QEjUEeqt4fNV2MZ8Fg" incomingEdges="_3Xz0oEjREeqt4fNV2MZ8Fg _4XWmEEjREeqt4fNV2MZ8Fg" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="dsl.kaos:Refinement" href="EducaSoS.mkaos#//@linkedBy.1"/>
+      <semanticElements xmi:type="dsl.kaos:Refinement" href="EducaSoS.mkaos#//@linkedBy.1"/>
+      <graphicalFilters xmi:type="diagram:HideLabelFilter" xmi:id="_1_QGQEjREeqt4fNV2MZ8Fg"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_1_NqAUjREeqt4fNV2MZ8Fg" showIcon="false" hideLabelByDefault="true" labelPosition="node" color="252,233,79">
+        <description xmi:type="style:EllipseNodeDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='KAOS']/@ownedRepresentations[name='mKAOS.main']/@additionalLayers[name='KAOS.Goal']/@nodeMappings[name='KAOS.Refinement']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='KAOS']/@ownedRepresentations[name='mKAOS.main']/@additionalLayers[name='KAOS.Goal']/@nodeMappings[name='KAOS.Refinement']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_q7eIYEjUEeqt4fNV2MZ8Fg" outgoingEdges="_w7GvkEjUEeqt4fNV2MZ8Fg" incomingEdges="_wVzDEEjUEeqt4fNV2MZ8Fg" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="dsl.kaos:Refinement" href="EducaSoS.mkaos#//@linkedBy.2"/>
+      <semanticElements xmi:type="dsl.kaos:Refinement" href="EducaSoS.mkaos#//@linkedBy.2"/>
+      <graphicalFilters xmi:type="diagram:HideLabelFilter" xmi:id="_q7eIYkjUEeqt4fNV2MZ8Fg"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_q7eIYUjUEeqt4fNV2MZ8Fg" showIcon="false" hideLabelByDefault="true" labelPosition="node" color="252,233,79">
+        <description xmi:type="style:EllipseNodeDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='KAOS']/@ownedRepresentations[name='mKAOS.main']/@additionalLayers[name='KAOS.Goal']/@nodeMappings[name='KAOS.Refinement']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='KAOS']/@ownedRepresentations[name='mKAOS.main']/@additionalLayers[name='KAOS.Goal']/@nodeMappings[name='KAOS.Refinement']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_Nj9K4EjLEeqt4fNV2MZ8Fg" sourceNode="_M-yoUEjLEeqt4fNV2MZ8Fg" targetNode="_KdTqYEjIEeqt4fNV2MZ8Fg">
+      <target xmi:type="dsl.kaos:Refinement" href="EducaSoS.mkaos#//@linkedBy.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_Nj9x8EjLEeqt4fNV2MZ8Fg" size="2" strokeColor="252,233,79">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='KAOS']/@ownedRepresentations[name='mKAOS.main']/@additionalLayers[name='KAOS.Goal']/@edgeMappings[name='KAOS.Link.Refinement.Refines']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_Nj9x8UjLEeqt4fNV2MZ8Fg"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='KAOS']/@ownedRepresentations[name='mKAOS.main']/@additionalLayers[name='KAOS.Goal']/@edgeMappings[name='KAOS.Link.Refinement.Refines']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_O48A0EjLEeqt4fNV2MZ8Fg" sourceNode="_4YyDEEjJEeqt4fNV2MZ8Fg" targetNode="_M-yoUEjLEeqt4fNV2MZ8Fg">
+      <target xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.1"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_O48n4EjLEeqt4fNV2MZ8Fg" targetArrow="NoDecoration" size="2" strokeColor="252,233,79">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='KAOS']/@ownedRepresentations[name='mKAOS.main']/@additionalLayers[name='KAOS.Goal']/@edgeMappings[name='KAOS.Links.Refinements.RefinedBy']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_O48n4UjLEeqt4fNV2MZ8Fg"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='KAOS']/@ownedRepresentations[name='mKAOS.main']/@additionalLayers[name='KAOS.Goal']/@edgeMappings[name='KAOS.Links.Refinements.RefinedBy']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_PVTzwEjLEeqt4fNV2MZ8Fg" sourceNode="_oDGYoEjKEeqt4fNV2MZ8Fg" targetNode="_M-yoUEjLEeqt4fNV2MZ8Fg">
+      <target xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.2"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_PVTzwUjLEeqt4fNV2MZ8Fg" targetArrow="NoDecoration" size="2" strokeColor="252,233,79">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='KAOS']/@ownedRepresentations[name='mKAOS.main']/@additionalLayers[name='KAOS.Goal']/@edgeMappings[name='KAOS.Links.Refinements.RefinedBy']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_PVTzwkjLEeqt4fNV2MZ8Fg"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='KAOS']/@ownedRepresentations[name='mKAOS.main']/@additionalLayers[name='KAOS.Goal']/@edgeMappings[name='KAOS.Links.Refinements.RefinedBy']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_gtexwEjREeqt4fNV2MZ8Fg" name="Origin Administrative Office" incomingEdges="_yrHcAEjREeqt4fNV2MZ8Fg" width="12" height="4" resizeKind="NSEW">
+      <target xmi:type="dsl.mKAOS:ConstituentSystem" href="EducaSoS.mkaos#//@consistsOf.4"/>
+      <semanticElements xmi:type="dsl.mKAOS:ConstituentSystem" href="EducaSoS.mkaos#//@consistsOf.4"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Lozenge" xmi:id="_gtexwUjREeqt4fNV2MZ8Fg" showIcon="false" labelPosition="node" width="12" height="4" color="252,175,62">
+        <description xmi:type="style:LozengeNodeDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Responsability']/@nodeMappings[name='mKAOS.Responsability.ConstituentSystem']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Responsability']/@nodeMappings[name='mKAOS.Responsability.ConstituentSystem']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_zOWr8EjREeqt4fNV2MZ8Fg" name="Destination Administrative Office" incomingEdges="_1C5LsEjREeqt4fNV2MZ8Fg" width="12" height="4" resizeKind="NSEW">
+      <target xmi:type="dsl.mKAOS:ConstituentSystem" href="EducaSoS.mkaos#//@consistsOf.6"/>
+      <semanticElements xmi:type="dsl.mKAOS:ConstituentSystem" href="EducaSoS.mkaos#//@consistsOf.6"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Lozenge" xmi:id="_zOWr8UjREeqt4fNV2MZ8Fg" showIcon="false" labelPosition="node" width="12" height="4" color="252,175,62">
+        <description xmi:type="style:LozengeNodeDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Responsability']/@nodeMappings[name='mKAOS.Responsability.ConstituentSystem']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Responsability']/@nodeMappings[name='mKAOS.Responsability.ConstituentSystem']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_GNz_kEjSEeqt4fNV2MZ8Fg" name="Learning System" incomingEdges="_H1qHIEjSEeqt4fNV2MZ8Fg" width="12" height="4" resizeKind="NSEW">
+      <target xmi:type="dsl.mKAOS:ConstituentSystem" href="EducaSoS.mkaos#//@consistsOf.7"/>
+      <semanticElements xmi:type="dsl.mKAOS:ConstituentSystem" href="EducaSoS.mkaos#//@consistsOf.7"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Lozenge" xmi:id="_GNz_kUjSEeqt4fNV2MZ8Fg" showIcon="false" labelPosition="node" width="12" height="4" color="252,175,62">
+        <description xmi:type="style:LozengeNodeDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Responsability']/@nodeMappings[name='mKAOS.Responsability.ConstituentSystem']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Responsability']/@nodeMappings[name='mKAOS.Responsability.ConstituentSystem']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_MSvWcEjSEeqt4fNV2MZ8Fg" name="Scheduling Calendar System" incomingEdges="_PfowQEjSEeqt4fNV2MZ8Fg" width="12" height="4" resizeKind="NSEW">
+      <target xmi:type="dsl.mKAOS:ConstituentSystem" href="EducaSoS.mkaos#//@consistsOf.8"/>
+      <semanticElements xmi:type="dsl.mKAOS:ConstituentSystem" href="EducaSoS.mkaos#//@consistsOf.8"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Lozenge" xmi:id="_MSvWcUjSEeqt4fNV2MZ8Fg" showIcon="false" labelPosition="node" width="12" height="4" color="252,175,62">
+        <description xmi:type="style:LozengeNodeDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Responsability']/@nodeMappings[name='mKAOS.Responsability.ConstituentSystem']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Responsability']/@nodeMappings[name='mKAOS.Responsability.ConstituentSystem']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_yrHcAEjREeqt4fNV2MZ8Fg" sourceNode="_B_GnoEjLEeqt4fNV2MZ8Fg" targetNode="_gtexwEjREeqt4fNV2MZ8Fg">
+      <target xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.3"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_yrHcAUjREeqt4fNV2MZ8Fg" sourceArrow="InputArrow" targetArrow="NoDecoration" strokeColor="239,41,41">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Responsability']/@edgeMappings[name='mKAOS.Responsability.Responsible']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_yrHcAkjREeqt4fNV2MZ8Fg"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Responsability']/@edgeMappings[name='mKAOS.Responsability.Responsible']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_1C5LsEjREeqt4fNV2MZ8Fg" sourceNode="_pmcWgEjREeqt4fNV2MZ8Fg" targetNode="_zOWr8EjREeqt4fNV2MZ8Fg">
+      <target xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.5"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_1C5LsUjREeqt4fNV2MZ8Fg" sourceArrow="InputArrow" targetArrow="NoDecoration" strokeColor="239,41,41">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Responsability']/@edgeMappings[name='mKAOS.Responsability.Responsible']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_1C5LskjREeqt4fNV2MZ8Fg"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Responsability']/@edgeMappings[name='mKAOS.Responsability.Responsible']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_3Xz0oEjREeqt4fNV2MZ8Fg" sourceNode="_B_GnoEjLEeqt4fNV2MZ8Fg" targetNode="_1_NqAEjREeqt4fNV2MZ8Fg">
+      <target xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.3"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_3Xz0oUjREeqt4fNV2MZ8Fg" targetArrow="NoDecoration" size="2" strokeColor="252,233,79">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='KAOS']/@ownedRepresentations[name='mKAOS.main']/@additionalLayers[name='KAOS.Goal']/@edgeMappings[name='KAOS.Links.Refinements.RefinedBy']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_3Xz0okjREeqt4fNV2MZ8Fg"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='KAOS']/@ownedRepresentations[name='mKAOS.main']/@additionalLayers[name='KAOS.Goal']/@edgeMappings[name='KAOS.Links.Refinements.RefinedBy']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_4XWmEEjREeqt4fNV2MZ8Fg" sourceNode="_pmcWgEjREeqt4fNV2MZ8Fg" targetNode="_1_NqAEjREeqt4fNV2MZ8Fg">
+      <target xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.5"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_4XXNIEjREeqt4fNV2MZ8Fg" targetArrow="NoDecoration" size="2" strokeColor="252,233,79">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='KAOS']/@ownedRepresentations[name='mKAOS.main']/@additionalLayers[name='KAOS.Goal']/@edgeMappings[name='KAOS.Links.Refinements.RefinedBy']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_4XXNIUjREeqt4fNV2MZ8Fg"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='KAOS']/@ownedRepresentations[name='mKAOS.main']/@additionalLayers[name='KAOS.Goal']/@edgeMappings[name='KAOS.Links.Refinements.RefinedBy']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_H1qHIEjSEeqt4fNV2MZ8Fg" sourceNode="_4YyDEEjJEeqt4fNV2MZ8Fg" targetNode="_GNz_kEjSEeqt4fNV2MZ8Fg">
+      <target xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.1"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_H1qHIUjSEeqt4fNV2MZ8Fg" sourceArrow="InputArrow" targetArrow="NoDecoration" strokeColor="239,41,41">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Responsability']/@edgeMappings[name='mKAOS.Responsability.Responsible']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_H1qHIkjSEeqt4fNV2MZ8Fg"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Responsability']/@edgeMappings[name='mKAOS.Responsability.Responsible']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_PfowQEjSEeqt4fNV2MZ8Fg" sourceNode="_oDGYoEjKEeqt4fNV2MZ8Fg" targetNode="_MSvWcEjSEeqt4fNV2MZ8Fg">
+      <target xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.2"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_PfowQUjSEeqt4fNV2MZ8Fg" sourceArrow="InputArrow" targetArrow="NoDecoration" strokeColor="239,41,41">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Responsability']/@edgeMappings[name='mKAOS.Responsability.Responsible']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_PfowQkjSEeqt4fNV2MZ8Fg"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Responsability']/@edgeMappings[name='mKAOS.Responsability.Responsible']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_TokCkEjUEeqt4fNV2MZ8Fg" sourceNode="_1COycEjTEeqt4fNV2MZ8Fg" targetNode="_M-yoUEjLEeqt4fNV2MZ8Fg">
+      <target xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.9"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_TokCkUjUEeqt4fNV2MZ8Fg" targetArrow="NoDecoration" size="2" strokeColor="252,233,79">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='KAOS']/@ownedRepresentations[name='mKAOS.main']/@additionalLayers[name='KAOS.Goal']/@edgeMappings[name='KAOS.Links.Refinements.RefinedBy']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_TokCkkjUEeqt4fNV2MZ8Fg"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='KAOS']/@ownedRepresentations[name='mKAOS.main']/@additionalLayers[name='KAOS.Goal']/@edgeMappings[name='KAOS.Links.Refinements.RefinedBy']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_wVzDEEjUEeqt4fNV2MZ8Fg" sourceNode="_uiCmcEjUEeqt4fNV2MZ8Fg" targetNode="_q7eIYEjUEeqt4fNV2MZ8Fg">
+      <target xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.10"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_wVzDEUjUEeqt4fNV2MZ8Fg" targetArrow="NoDecoration" size="2" strokeColor="252,233,79">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='KAOS']/@ownedRepresentations[name='mKAOS.main']/@additionalLayers[name='KAOS.Goal']/@edgeMappings[name='KAOS.Links.Refinements.RefinedBy']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_wVzDEkjUEeqt4fNV2MZ8Fg"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='KAOS']/@ownedRepresentations[name='mKAOS.main']/@additionalLayers[name='KAOS.Goal']/@edgeMappings[name='KAOS.Links.Refinements.RefinedBy']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_w7GvkEjUEeqt4fNV2MZ8Fg" sourceNode="_q7eIYEjUEeqt4fNV2MZ8Fg" targetNode="_1COycEjTEeqt4fNV2MZ8Fg">
+      <target xmi:type="dsl.kaos:Refinement" href="EducaSoS.mkaos#//@linkedBy.2"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_w7GvkUjUEeqt4fNV2MZ8Fg" size="2" strokeColor="252,233,79">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='KAOS']/@ownedRepresentations[name='mKAOS.main']/@additionalLayers[name='KAOS.Goal']/@edgeMappings[name='KAOS.Link.Refinement.Refines']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_w7GvkkjUEeqt4fNV2MZ8Fg"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='KAOS']/@ownedRepresentations[name='mKAOS.main']/@additionalLayers[name='KAOS.Goal']/@edgeMappings[name='KAOS.Link.Refinement.Refines']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_ywF7QEjUEeqt4fNV2MZ8Fg" sourceNode="_1_NqAEjREeqt4fNV2MZ8Fg" targetNode="_uiCmcEjUEeqt4fNV2MZ8Fg">
+      <target xmi:type="dsl.kaos:Refinement" href="EducaSoS.mkaos#//@linkedBy.1"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_ywF7QUjUEeqt4fNV2MZ8Fg" size="2" strokeColor="252,233,79">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='KAOS']/@ownedRepresentations[name='mKAOS.main']/@additionalLayers[name='KAOS.Goal']/@edgeMappings[name='KAOS.Link.Refinement.Refines']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_ywF7QkjUEeqt4fNV2MZ8Fg"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='KAOS']/@ownedRepresentations[name='mKAOS.main']/@additionalLayers[name='KAOS.Goal']/@edgeMappings[name='KAOS.Link.Refinement.Refines']"/>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" xmi:id="_G0oThEjIEeqt4fNV2MZ8Fg"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@defaultLayer"/>
+    <activatedLayers xmi:type="description_1:AdditionalLayer" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Mission']"/>
+    <activatedLayers xmi:type="description_1:AdditionalLayer" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Object']"/>
+    <activatedLayers xmi:type="description_1:AdditionalLayer" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Capability']"/>
+    <activatedLayers xmi:type="description_1:AdditionalLayer" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Responsability']"/>
+    <activatedLayers xmi:type="description_1:AdditionalLayer" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.EmergentBehavior']"/>
+    <activatedLayers xmi:type="description_1:AdditionalLayer" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Communication']"/>
+    <target xmi:type="dsl.mKAOS:mKAOS" href="EducaSoS.mkaos#/"/>
+  </diagram:DSemanticDiagram>
+</xmi:XMI>

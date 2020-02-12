@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dsl.mKAOS:mKAOS xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dsl.kaos="dsl.kaos" xmlns:dsl.mKAOS="dsl.mKAOS">
+  <linkedBy xsi:type="dsl.kaos:Refinement" refines="//@consistsOf.0"/>
+  <linkedBy xsi:type="dsl.kaos:Refinement" refines="//@consistsOf.10"/>
+  <linkedBy xsi:type="dsl.kaos:Refinement" refines="//@consistsOf.9"/>
+  <consistsOf xsi:type="dsl.mKAOS:Mission" name="Students can perform a period abroad successfully"/>
+  <consistsOf xsi:type="dsl.mKAOS:Mission" name="Provide the students with the ability to attend online courses" refinedBy="//@linkedBy.0" assignedTo="//@consistsOf.7"/>
+  <consistsOf xsi:type="dsl.mKAOS:Mission" name="Provide the students with the list of the courses/competences acquired during the period abroad" refinedBy="//@linkedBy.0" assignedTo="//@consistsOf.8"/>
+  <consistsOf xsi:type="dsl.mKAOS:Mission" name="Origin university requests student registration" refinedBy="//@linkedBy.1" assignedTo="//@consistsOf.4"/>
+  <consistsOf xsi:type="dsl.mKAOS:ConstituentSystem" name="Origin Administrative Office"/>
+  <consistsOf xsi:type="dsl.mKAOS:Mission" name="Destination University register the students in a course" refinedBy="//@linkedBy.1" assignedTo="//@consistsOf.6"/>
+  <consistsOf xsi:type="dsl.mKAOS:ConstituentSystem" name="Destination Administrative Office"/>
+  <consistsOf xsi:type="dsl.mKAOS:ConstituentSystem" name="Learning System"/>
+  <consistsOf xsi:type="dsl.mKAOS:ConstituentSystem" name="Scheduling Calendar System"/>
+  <consistsOf xsi:type="dsl.mKAOS:Mission" name="Provide the student  with the possibility to select an abroad university within the Erasmus program" refinedBy="//@linkedBy.0"/>
+  <consistsOf xsi:type="dsl.mKAOS:Mission" name="Provide the students with the ability to register in the selected courses in the university abroad" refinedBy="//@linkedBy.2"/>
+</dsl.mKAOS:mKAOS>
