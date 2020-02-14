@@ -102,7 +102,7 @@
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ImE6pEjWEeqt4fNV2MZ8Fg"/>
           </children>
           <styles xmi:type="notation:ShapeStyle" xmi:id="_ImETkUjWEeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ImETkkjWEeqt4fNV2MZ8Fg" x="144" y="231" width="151" height="85"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ImETkkjWEeqt4fNV2MZ8Fg" x="144" y="213" width="151" height="103"/>
         </children>
         <children xmi:type="notation:Node" xmi:id="_JGC0IEjWEeqt4fNV2MZ8Fg" type="2001" element="_JF64UEjWEeqt4fNV2MZ8Fg">
           <children xmi:type="notation:Node" xmi:id="_JGC0I0jWEeqt4fNV2MZ8Fg" type="5002">
@@ -113,7 +113,7 @@
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JGC0J0jWEeqt4fNV2MZ8Fg"/>
           </children>
           <styles xmi:type="notation:ShapeStyle" xmi:id="_JGC0IUjWEeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JGC0IkjWEeqt4fNV2MZ8Fg" x="390" y="246" width="126" height="115"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JGC0IkjWEeqt4fNV2MZ8Fg" x="360" y="246" width="156" height="115"/>
         </children>
         <children xmi:type="notation:Node" xmi:id="_OnDwMEjXEeqt4fNV2MZ8Fg" type="2001" element="_OmtK4EjXEeqt4fNV2MZ8Fg">
           <children xmi:type="notation:Node" xmi:id="_OnEXQEjXEeqt4fNV2MZ8Fg" type="5002">
@@ -290,7 +290,7 @@
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_oGfX8UjXEeqt4fNV2MZ8Fg"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_oGfX8kjXEeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
           <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_oGfX80jXEeqt4fNV2MZ8Fg" points="[0, 0, 12, -47]$[-12, 47, 0, 0]"/>
-          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_oGfX-kjXEeqt4fNV2MZ8Fg" id="(0.5714285714285714,1.0)"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_oGfX-kjXEeqt4fNV2MZ8Fg" id="(0.6538461538461539,1.0)"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_oGfX-0jXEeqt4fNV2MZ8Fg" id="(0.430939226519337,0.0)"/>
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_uObmkEjXEeqt4fNV2MZ8Fg" type="4001" element="_uOG2cEjXEeqt4fNV2MZ8Fg" source="_ImETkEjWEeqt4fNV2MZ8Fg" target="_M-8ZUEjLEeqt4fNV2MZ8Fg">
@@ -306,7 +306,7 @@
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_uObmkUjXEeqt4fNV2MZ8Fg"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_uObmkkjXEeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
           <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_uObmk0jXEeqt4fNV2MZ8Fg" points="[0, 0, -174, 96]$[174, -96, 0, 0]"/>
-          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_uObmmkjXEeqt4fNV2MZ8Fg" id="(1.0,0.38823529411764707)"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_uObmmkjXEeqt4fNV2MZ8Fg" id="(1.0,0.49514563106796117)"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_uObmm0jXEeqt4fNV2MZ8Fg" id="(0.0,0.6)"/>
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_uxnMIEjXEeqt4fNV2MZ8Fg" type="4001" element="_uxdbIEjXEeqt4fNV2MZ8Fg" source="_JGC0IEjWEeqt4fNV2MZ8Fg" target="_M-8ZUEjLEeqt4fNV2MZ8Fg">
@@ -322,7 +322,7 @@
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_uxnMIUjXEeqt4fNV2MZ8Fg"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_uxnMIkjXEeqt4fNV2MZ8Fg" fontName="Segoe UI" fontHeight="8"/>
           <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_uxnMI0jXEeqt4fNV2MZ8Fg" points="[0, 0, -6, 66]$[6, -66, 0, 0]"/>
-          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_uxnzNkjXEeqt4fNV2MZ8Fg" id="(0.6666666666666666,0.0)"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_uxnzNkjXEeqt4fNV2MZ8Fg" id="(0.7307692307692307,0.0)"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_uxnzN0jXEeqt4fNV2MZ8Fg" id="(0.36666666666666664,1.0)"/>
         </edges>
       </data>
@@ -371,7 +371,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Mission']/@nodeMappings[name='mKAOS.Mission']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_IlwxkEjWEeqt4fNV2MZ8Fg" name="Provide the students with the ability to choose the list of courses in the University 1" outgoingEdges="_d3P8wEjXEeqt4fNV2MZ8Fg _uOG2cEjXEeqt4fNV2MZ8Fg" width="3" height="3" resizeKind="NSEW">
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_IlwxkEjWEeqt4fNV2MZ8Fg" name="Provide the cooperation Administrative Office with the ability to manage the list of courses in University 1" outgoingEdges="_d3P8wEjXEeqt4fNV2MZ8Fg _uOG2cEjXEeqt4fNV2MZ8Fg" width="3" height="3" resizeKind="NSEW">
       <target xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.6"/>
       <semanticElements xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.6"/>
       <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
@@ -382,7 +382,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/Kaos.Viewpoints/description/kaos.odesign#//@ownedViewpoints[name='mKAOS']/@ownedRepresentations[name='mKAOS.Behavior']/@additionalLayers[name='mKAOS.Mission']/@nodeMappings[name='mKAOS.Mission']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_JF64UEjWEeqt4fNV2MZ8Fg" name="Provide the students with the ability to choose the list of courses in the University 2" outgoingEdges="_oGVm8EjXEeqt4fNV2MZ8Fg _uxdbIEjXEeqt4fNV2MZ8Fg" width="3" height="3" resizeKind="NSEW">
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_JF64UEjWEeqt4fNV2MZ8Fg" name="Provide the cooperation Administrative Office with the ability to manage the list of courses in University 2" outgoingEdges="_oGVm8EjXEeqt4fNV2MZ8Fg _uxdbIEjXEeqt4fNV2MZ8Fg" width="3" height="3" resizeKind="NSEW">
       <target xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.7"/>
       <semanticElements xmi:type="dsl.mKAOS:Mission" href="EducaSoS.mkaos#//@consistsOf.7"/>
       <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>

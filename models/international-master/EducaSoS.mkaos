@@ -7,8 +7,8 @@
   <consistsOf xsi:type="dsl.mKAOS:Mission" name="Provide the students with the list of the courses/competences acquired during the international master" refinedBy="//@linkedBy.0" assignedTo="//@consistsOf.5"/>
   <consistsOf xsi:type="dsl.mKAOS:ConstituentSystem" name="Learning System"/>
   <consistsOf xsi:type="dsl.mKAOS:ConstituentSystem" name="Scheduling Calendar System"/>
-  <consistsOf xsi:type="dsl.mKAOS:Mission" name="Provide the students with the ability to choose the list of courses in the University 1" refinedBy="//@linkedBy.0" assignedTo="//@consistsOf.9"/>
-  <consistsOf xsi:type="dsl.mKAOS:Mission" name="Provide the students with the ability to choose the list of courses in the University 2" refinedBy="//@linkedBy.0" assignedTo="//@consistsOf.10"/>
+  <consistsOf xsi:type="dsl.mKAOS:Mission" name="Provide the cooperation Administrative Office with the ability to manage the list of courses in University 1" refinedBy="//@linkedBy.0" assignedTo="//@consistsOf.9"/>
+  <consistsOf xsi:type="dsl.mKAOS:Mission" name="Provide the cooperation Administrative Office with the ability to manage the list of courses in University 2" refinedBy="//@linkedBy.0" assignedTo="//@consistsOf.10"/>
   <consistsOf xsi:type="dsl.mKAOS:ConstituentSystem" name="Cooperation Administrative Office"/>
   <consistsOf xsi:type="dsl.mKAOS:ConstituentSystem" name="University 1 Administrative Office"/>
   <consistsOf xsi:type="dsl.mKAOS:ConstituentSystem" name="University 2 Administrative Office"/>
