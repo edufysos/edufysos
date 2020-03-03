@@ -12,8 +12,27 @@ We modelled three different SoSs accomplishing different missions:
 * [Use Case Diagram](https://github.com/edufysos/edufysos/blob/master/models/basic/BasicUseCase_NoBorder.png)
 * [Components Diagram](https://github.com/edufysos/edufysos/blob/master/models/basic/BasicComponents.png)
 
-### [Guideline](https://github.com/edufysos/edufysos/blob/master/guidelines/BasicEducationalSoS.pdf)
+### Guideline
+* [How to configure and examples] (https://github.com/edufysos/edufysos/blob/master/guidelines/BasicEducationalSoS.pdf)
 
+## Student Mobility SoS
+
+### Documentation
+
+* [Missions Model](https://github.com/edufysos/edufysos/blob/master/models/mobility/mKAOSMobility.png)
+* [Use Case Diagram](https://github.com/edufysos/edufysos/blob/master/models/mobility/Mobility%20Use%20Cases%20v2.png)
+* [Components Diagram](https://github.com/edufysos/edufysos/blob/master/models/mobility/Mobility%20Components.png)
+
+### Guideline
+* [How to configure and examples] (https://github.com/edufysos/edufysos/blob/master/guidelines/MobilitySoS.pdf)
+
+## International Master SoS
+
+### Documentation
+
+* [Missions Model]https://github.com/edufysos/edufysos/blob/master/models/international-master/mKAOS%20Diagram.png)
+* [Use Case Diagram](https://github.com/edufysos/edufysos/blob/master/models/international-master/InternationalUseCase_NoBorder.png)
+* [Components Diagram](https://github.com/edufysos/edufysos/blob/master/models/international-master/InternationalComponents.png)
 
 
 # Team
@@ -24,3 +43,8 @@ We modelled three different SoSs accomplishing different missions:
 * Francesca Lonetti (CNR-IASI)
 * Guglielmo De Angelis (CNR-ISTI)
 * Jhonatan Azevedo Gonçalves (IC-UFF)
+
+
+
+
+
