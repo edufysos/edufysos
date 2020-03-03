@@ -8,11 +8,11 @@ We modelled three different SoSs accomplishing different missions:
 
 ### Documentation
 
-* [Missions Model]https://github.com/edufysos/edufysos/blob/master/models/basic/mKAOSBasic.png)
-* [Use Case Diagram]https://github.com/edufysos/edufysos/blob/master/models/basic/BasicUseCase_NoBorder.png)
-* [Components Diagram]https://github.com/edufysos/edufysos/blob/master/models/basic/BasicComponents.png)
+* [Missions Model](https://github.com/edufysos/edufysos/blob/master/models/basic/mKAOSBasic.png)
+* [Use Case Diagram](https://github.com/edufysos/edufysos/blob/master/models/basic/BasicUseCase_NoBorder.png)
+* [Components Diagram](https://github.com/edufysos/edufysos/blob/master/models/basic/BasicComponents.png)
 
-### [Guideline] https://github.com/edufysos/edufysos/blob/master/guidelines/BasicEducationalSoS.pdf
+### [Guideline](https://github.com/edufysos/edufysos/blob/master/guidelines/BasicEducationalSoS.pdf)
 
 
 
