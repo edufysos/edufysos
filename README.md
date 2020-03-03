@@ -30,7 +30,7 @@ We modelled three different SoSs accomplishing different missions:
 
 ### Documentation
 
-* [Missions Model]https://github.com/edufysos/edufysos/blob/master/models/international-master/mKAOS%20Diagram.png)
+* [Missions Model](https://github.com/edufysos/edufysos/blob/master/models/international-master/mKAOS%20Diagram.png)
 * [Use Case Diagram](https://github.com/edufysos/edufysos/blob/master/models/international-master/InternationalUseCase_NoBorder.png)
 * [Components Diagram](https://github.com/edufysos/edufysos/blob/master/models/international-master/InternationalComponents.png)
 
