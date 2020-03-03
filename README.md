@@ -13,7 +13,7 @@ We modelled three different SoSs accomplishing different missions:
 * [Components Diagram](https://github.com/edufysos/edufysos/blob/master/models/basic/BasicComponents.png)
 
 ### Guideline
-* [How to configure and examples] (https://github.com/edufysos/edufysos/blob/master/guidelines/BasicEducationalSoS.pdf)
+* [How to configure and examples](https://github.com/edufysos/edufysos/blob/master/guidelines/BasicEducationalSoS.pdf)
 
 ## Student Mobility SoS
 
@@ -24,7 +24,7 @@ We modelled three different SoSs accomplishing different missions:
 * [Components Diagram](https://github.com/edufysos/edufysos/blob/master/models/mobility/Mobility%20Components.png)
 
 ### Guideline
-* [How to configure and examples] (https://github.com/edufysos/edufysos/blob/master/guidelines/MobilitySoS.pdf)
+* [How to configure and examples](https://github.com/edufysos/edufysos/blob/master/guidelines/MobilitySoS.pdf)
 
 ## International Master SoS
 
