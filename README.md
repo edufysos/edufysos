@@ -1,4 +1,5 @@
-# About
+# EDUFYSoS - A Factory of System of Systems Case Studies
+![cab](./images/cab.png)
 
 EDUFYSoS is a factory of educational SoSs that can be used as case studies for evaluating SoS testing researchs.
 
