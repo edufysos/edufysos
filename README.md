@@ -45,7 +45,7 @@ The goal of this SoS is to allow students to attend online courses  and  manage 
 
 **Components Diagram**
 <center>
-<img src="./models/basic/BasicComponents.png"  alt="Components Diagram" width="300"/></center>
+<img src="./models/basic/BasicComponents.png"  alt="Components Diagram" width="400"/></center>
 
 ### **Basic Educational SoS Instantiation**
 To instantiate the Basic Educational SoS, we choose as constituent systems:
@@ -69,11 +69,11 @@ The “Student Mobility” SoS supports a mobility programme that allows student
 <center><img src="./models/mobility/mKAOSMobility.png"  alt="Mission Model" width="500"/></center>
 
 **Use Case Diagram**
-<center><img src="./models/mobility/MobilityUseCasesv2.png"  alt="Use Case Diagram" width="800"/></center>
+<center><img src="./models/mobility/MobilityUseCasesv2.png"  alt="Use Case Diagram" width="900"/></center>
 
 **Components Diagram**
 <center>
-<img src="./models/mobility/MobilityComponents.png"  alt="Components Diagram" width="700"/></center>
+<img src="./models/mobility/MobilityComponents.png"  alt="Components Diagram" width="800"/></center>
 
 
 ### **Student Mobility SoS Instantiation**
@@ -94,14 +94,14 @@ A tested version of [Moodle](https://github.com/edufysos/moodle) and [RosarioSiS
 The  “International  Master”  SoS  refers  to  the  case that  a shared degree is offered by a set of universities with the aim of providing the student with a multicultural learning experience. The master is  offered  under  the  shared  responsibility  of the joining  universities.  In  this  sense, the  administrative  offices of  each  university  manage the  courses  they  offer  within  the international master program, also they cooperate in order to share the evaluations marked by the students during examinations. The Mission Model, Use Case and Componentes diagram are presented below:
 
 **Mission Model**
-<center><img src="./models/international-master/mKAOS%20Diagram.png"  alt="Mission Model" width="700"/></center>
+<center><img src="./models/international-master/mKAOS%20Diagram.png"  alt="Mission Model" width="800"/></center>
 
 **Use Case Diagram**
 <center><img src="./models/international-master/InternationalUseCase_NoBorder.png"  alt="Use Case Diagram" width="400"/></center>
 
 **Components Diagram**
 <center>
-<img src="./models/international-master/InternationalComponents.png"  alt="Components Diagram" width="600"/></center>
+<img src="./models/international-master/InternationalComponents.png"  alt="Components Diagram" width="700"/></center>
 
 ### **International Master SoS Instantiation**
 We are still working to instantiate this scenario. However, you can follow the [issues](https://github.com/edufysos/edufysos/issues) session with label [**internationalMasterSoS**](https://github.com/edufysos/edufysos/issues?q=is%3Aissue+label%3AinternationalMasterSoS). 
