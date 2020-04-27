@@ -3,7 +3,9 @@
 EDUFYSoS is a  factory of educational System of Systems (SoSs)  that can be used as case studies for evaluating SoS research, in particular SoS testing.
 The term "factory" is inspired by the Gang of Four (GoF) Factory design pattern. As in this pattern, with EDUFYSoS, we can create a family of SoS related to an educational domain as well as extend it and open it to host other case studies. 
 
-EDUFYSoS provides three scenarios, the set of constituent systems that we can use to implement them, the process we followed, and the guidelines for supporting instantiate these scenarios.
+Figure below presents a overview of EDUFYSoS. It provides educational SoSs scenarios, the set of constituent systems that we can use to implement them, the process we followed to build these scenarios, and the guidelines for supporting instantiate these scenarios.
+
+![cab](./images/EdufySoSOverview.png "EDUFYSoS Overview")
 
 
 Table of contents
