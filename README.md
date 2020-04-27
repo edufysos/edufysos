@@ -123,8 +123,8 @@ You can contribute to EDUFYSoS by suggesting new scenarios, constituent systems,
 * Vânia de Oliveira Neves (IC-UFF)
 * Miguel Angel Olivero (CNR-ISTI)
 * Antonia Bertolino (CNR-ISTI)
-* Francesca Lonetti (CNR-IASI)
-* Guglielmo De Angelis (CNR-ISTI)
+* Francesca Lonetti (CNR-IASI) 
+* [Guglielmo De Angelis](@gulyx) (CNR-IASI)
 * Jhonatan Azevedo Gonçalves (IC-UFF)
 
 
